@@ -6,39 +6,31 @@
 
 - Introduction to Machine Learning
   - Getting to know the "tools of the trade"
--- Exploring and preparing data for modelling
--- Basic ideas of machine learning
+  - Exploring and preparing data for modelling
+  - Basic ideas of machine learning
 
 - Linear and Logistic Regression
--- Regression and classification: problem statement
--- Creating and improving models
+  - Regression and classification: problem statement
+  - Creating and improving models
 
 - Model Training and Improvement
--- Training and testing sets
--- Cross-validation
--- Model selection
--- Dimensionality reduction
+  - Training and testing sets
+  - Cross-validation
+  - Model selection
+  - Dimensionality reduction
 
-Tree and Ensemble Methods. Support Vector Machines
+- Tree and Ensemble Methods. Support Vector Machines
+  - Decision trees and forests
+  - SVM. "Kernel trick"
 
-Decision trees and forests
+- Unsupervised Learning
+  - Problem description, principles, motivation
+  - Clustering: kMeans, hierarchical
+  - Recommender systems: classical approach
 
-SVM. "Kernel trick"
+- Introduction to Neural Networks
+  - Problem statement. Pros and cons
+  - Feed-forward NNs: basics, classification usage
 
-Unsupervised Learning
-
-Problem description, principles, motivation
-
-Clustering: kMeans, hierarchical
-
-Recommender systems: classical approach
-
-Introduction to Neural Networks
-
-Problem statement. Pros and cons
-
-Feed-forward NNs: basics, classification usage
-
-Machine Learning in Context
-
-Several examples (time series, spatial data, text, images)
+- Machine Learning in Context
+  - Several examples (time series, spatial data, text, images)
