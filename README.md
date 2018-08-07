@@ -5,7 +5,7 @@
 ## The course covers:
 
 - Introduction to Machine Learning
--- Getting to know the "tools of the trade"
+  - Getting to know the "tools of the trade"
 -- Exploring and preparing data for modelling
 -- Basic ideas of machine learning
 
